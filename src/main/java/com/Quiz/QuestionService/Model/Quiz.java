@@ -17,4 +17,5 @@ public class Quiz {
     @ManyToMany
     private List<Question> questions;
 
+
 }
